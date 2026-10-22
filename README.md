@@ -82,12 +82,6 @@ Experience the deployed prototype here:
 
 AnnamAmrut is a prototype project. Features and functionality may evolve as development continues.
 
-## 👩‍💻 Author
-
-**Durva Gosavi**
-
-Developed as a web development project using modern frontend technologies.
-
 ---
 
 ⭐ If you find this project interesting, feel free to explore the repository and the live demo!
